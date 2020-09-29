@@ -1,7 +1,7 @@
 # Adjustable Drawer Set
 
 ## Poorly developed!
-I'm just learning; there are probably horrific patterns in here. Don'y follow those.
+I'm just learning; there are probably horrific patterns in here. Don't follow those.
 
 ## Here's some drawers!
 ![2x2 Drawer Set](images/white-black-2-drawer.png?raw=true)
